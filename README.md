@@ -4,7 +4,9 @@
 
 This repository contains only the C based programs. 
 
-**For Contributors**
+### For Contributors
+
+Before contributing, make sure to read `CONTRIBUTING.md` file
 > Feel free to contribute
 
 ## License
