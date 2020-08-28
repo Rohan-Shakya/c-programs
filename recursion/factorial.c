@@ -3,7 +3,7 @@
 int fact(int);
 void main()
 {
-	int a, f;
+	int n, f;
 	printf("\nEnter a number:\n");
 	scanf("%d", &n);
 	f = fact(n);
