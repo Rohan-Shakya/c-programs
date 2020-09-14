@@ -7,7 +7,7 @@
 // N 2N 3N ...NN
 
 #include<stdio.h>
-void main()
+int main()
 {
 	int i, j , n;
 	printf("\nEnter the number of term:\n");
@@ -18,5 +18,5 @@ void main()
 		}
 		printf("\n");
 	}
-	getch();
+	return 0;
 }

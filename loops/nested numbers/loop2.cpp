@@ -1,6 +1,4 @@
-#include<stdio.h>
-#include<conio.h>
-
+// WAP to display following pattern using nested loop.
 /* 
    1
    12
@@ -8,6 +6,10 @@
    1234
    12345
 */
+
+#include<stdio.h>
+#include<conio.h>
+
 
 int main() {
     int i,j;
