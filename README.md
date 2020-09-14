@@ -1,8 +1,8 @@
-# C Programs Open-Source Projects
+# Collection of C Programs
 
 ![C](https://github.com/Rohan-Shakya/c-programs/blob/master/assets/img/c.png)
 
-This repository contains only the C based programs.
+This repository contains the C Programs categorized based on the category in order to learn something new everyday.
 
 ### For Contributors
 
