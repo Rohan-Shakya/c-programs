@@ -1,4 +1,4 @@
-# C Programs Open-Source Projects
+# Collection of C Programs
 
 ![C](https://github.com/Rohan-Shakya/c-programs/blob/master/assets/img/c.png)
 
