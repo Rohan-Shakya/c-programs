@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(){
     int i, j, arr[10];
-    int temp,max,min;
+    int temp;
     // Taking user's input
     printf("Enter the Marks obtained by 10 students in BCA:\n");
     for(i=0;i<10;i++){
