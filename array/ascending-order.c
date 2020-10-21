@@ -1,6 +1,7 @@
 // WAP to input 'n' numbers and sort them in ascending order.
 #include<stdio.h>
-void main()
+
+int main()
 {
 	int i,j, n, num[100], t;
 	printf("\nEnter the size of array not more than 100:\n");
@@ -22,5 +23,5 @@ void main()
 	for(i = 0; i < n; i++){
 		printf("\n%d", num[i]);
 	}
-	getch();
+	return 0;
 }
