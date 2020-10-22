@@ -9,12 +9,12 @@ int main(){
         scanf("%d",&arr[i]);
     }
     // Arranging in ascending order
-    for(i=0;i<10;i++){
-        for(j=0;j<9;j++){
-            if(arr[j]>arr[j+1]){
-                temp = arr[j];
-                arr[j] = arr[j+ 1];
-                arr[j+1] = temp;
+    for(i=0;i<9;i++){
+        for(j=i+1;j>10;j++){
+            if(arr[i]<arr[j]){
+                temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
             }
         }
     }
