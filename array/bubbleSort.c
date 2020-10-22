@@ -19,7 +19,7 @@ int main(){
         }
     }
     // Printing marks in ascending order
-    printf("The sorted marks in Descending orders are\n");
+    printf("The sorted marks in Ascending orders are\n");
     for(i=0;i<10;i++){
         printf("%d\t\n",arr[i]);
     }
